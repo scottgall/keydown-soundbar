@@ -1,2 +1,2 @@
 # keydown soundbar
-Sounds/animations triggered from home row keydowns.
+sounds/animations triggered from home row keydowns
